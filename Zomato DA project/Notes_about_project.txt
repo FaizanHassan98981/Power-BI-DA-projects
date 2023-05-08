@@ -1,0 +1,15 @@
+Zomato data analysis of restaurants worldwide :
+
+    1. First report contains data on global scale where we can derive data on the total number of restaurants worldwide, including continents, countries, and cities
+  
+     and can View data on a global scale with the capacity to drill down to a granular level. 
+   
+   2. Second report consists of restaurants and services they provide like online delivery and table bookings and the average slab by ratings. It is filtering
+   on the basis of their geographical dimensions such as continent, country, and city.
+   
+   3. Third report consists of restaurants with most number of Cuisines served 
+   
+   4. Data on restaurant with lowest average cost and highest average ratings. You can drill down information based on Continent, Countries and cities .
+   
+   5. Live data power bi story in powerpoint mode for better visulaisation . 
+   
